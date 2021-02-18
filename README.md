@@ -1,2 +1,2 @@
 # Portfolio
-A collection of some of my projects completed studying Computer Science. Please do not reproduce any of these.
+A collection of some of my projects completed studying Computer Science. Please do not reproduce any of these. A bigger and more important project can be found here: https://privy-social-app.herokuapp.com . This is a social media created in a group of four where I was a backend developer and a database manager. You can explore it freely with an account you create or simply login using DustinDev as the user (case sensitive) and password as the password to see a completed profile.
